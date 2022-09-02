@@ -1,18 +1,16 @@
 <h1>Hi! I'm Liliam. Welcome!
-<a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-<a href="mailto:liliamoliveira13@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />
-<a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
+ <a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
+ <a href="mailto:liliamoliveira13@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />
+ <a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
 </h1> 
-
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
- <p align="left"> - 📚 Student of the program Desenvolve carried out by the Grupo Boticário</p>
- <p align="left"> - 💻 Web development</p>
- <p align="left"> - 🚀 Full Stack Student</p>
- <p align="left"> - 🎓 Graduated in Design</p>
- <p align="left"> - 👩🏽 Pronouns: she/her</p>
-</div>
-
+ <img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
+  <p align="left"> - 🎓 Designer</p>
+  <p align="left"> - 📚 Student of the program Desenvolve - Grupo Boticário</p>
+  <p align="left"> - 🚀 Full Stack Student</p>
+  <p align="left"> - 💻 Web development</p>
+  <p align="left"> - 👩🏽 Pronouns: she/her</p>
+ </div>
 <br>
 <div align="center">
   <a href="https://github.com/Lihsolive"></a>
@@ -28,7 +26,5 @@
   <img align="center" alt="Lih-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Lih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   ![Snake animation](https://github.com/Lihsolive/Lihsolive/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
+</div>
