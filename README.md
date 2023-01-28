@@ -7,10 +7,11 @@
 <div>
  <img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
   <p align="left"> - 🎓 Designer</p>
-  <p align="left"> - 📚 Student of the program Desenvolve - Grupo Boticário</p>
+  <p align="left"> - 📚 Program Desenvolve 2022 - Grupo Boticário</p>
+  <p align="left"> - 📚 Generation Brasil</p>
   <p align="left"> - 🚀 Full Stack Student</p>
   <p align="left"> - 💻 Web development</p>
-  <p align="left"> - 👩🏽 Pronouns: she/her</p>
+  <p align="left"> - 👩🏻 Pronouns: she/her</p>
  </div>
   
 <br>
@@ -26,7 +27,6 @@
 <div style="display:inline_block">
   <img align="center" alt="Lih-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
   <img align="center" alt="Lih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lih-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lih-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lih-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Lih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
