@@ -1,7 +1,7 @@
 <h1>Hi! I'm Liliam. Welcome!
- <a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
- <a href="mailto:liliamoliveira13@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />
- <a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
+ <a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
+ <a href="mailto:liliamoliveira13@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />
+ <a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
 </h1> 
   
 <div>
