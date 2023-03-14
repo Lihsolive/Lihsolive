@@ -7,10 +7,9 @@
 <div>
  <img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
   <p align="left"> - 🎓 Designer</p>
+  <p align="left"> - 🚀 Generation Brasil</p>
   <p align="left"> - 📚 Program Desenvolve 2022 - Grupo Boticário</p>
-  <p align="left"> - 📚 Generation Brasil</p>
-  <p align="left"> - 🚀 Full Stack Student</p>
-  <p align="left"> - 💻 Web development</p>
+  <p align="left"> - 💻 Full Stack Student</p>
   <p align="left"> - 👩🏻 Pronouns: she/her</p>
  </div>
   
