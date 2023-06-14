@@ -7,9 +7,9 @@
 <div>
  <img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
   <p align="left"> - 🎓 Designer</p>
+  <p align="left"> - 💻 Full Stack Developer</p>
   <p align="left"> - 🚀 Generation Brasil - Turma 60</p>
-  <p align="left"> - 📚 Programa Desenvolve 2022 - Grupo Boticário </p>
-  <p align="left"> - 💻 Full Stack</p>
+  <p align="left"> - 📚 Desenvolve 2022 (Grupo Boticário - Alura) </p>
   <p align="left"> - 👩🏻 Pronouns: she/her</p>
  </div>
   
@@ -23,7 +23,8 @@
   
 <br>
   
-<div style="display:inline_block">
+<div style="display: inline-block">
+
   <img align="center" alt="Lih-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Lih-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
