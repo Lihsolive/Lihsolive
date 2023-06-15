@@ -1,8 +1,11 @@
 <h1>Hi! I'm Liliam. Welcome!
- <a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
- <a href="mailto:liliamsoliver@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />
- <a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
+ <a href="https://liliamoliveira.myportfolio.com/" target="_blank"><img align="right" alt="portfolio" width="32px" src='https://svgshare.com/i/uF4.svg'></a>
+ <a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="32px" src='https://svgshare.com/i/uFk.svg' />
+ <a href="mailto:liliamsoliver@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://svgshare.com/i/uFz.svg" />
+ <a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="32px" src='https://svgshare.com/i/uFY.svg'> </a>
+ 
 </h1> 
+
   
 <div>
  <img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
