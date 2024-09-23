@@ -9,7 +9,7 @@
   
 <div>
  <img align="right" src="https://user-images.githubusercontent.com/89716594/187804412-e4cd5b00-2a90-4cca-b628-f1b36d4519dd.png" width="200">
-  <p align="left"> - 💻 TI Student (UNIVESP)</p>
+  <p align="left"> - 💻 Technology Information Student (UNIVESP)</p>
   <p align="left"> - 🎓 Designer</p>
   <p align="left"> - 🚀 Generation Brasil - Turma 60</p>
   <p align="left"> - 📚 Desenvolve 2022 (Grupo Boticário - Alura) </p>
