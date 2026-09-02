@@ -1,10 +1,4 @@
-<h1>Hi! I'm Liliam. Welcome!
- <a href="https://liliamoliveira.myportfolio.com/" target="_blank"><img align="right" alt="portfolio" width="32px" src='https://svgshare.com/i/uF4.svg'></a>
- <a href="https://www.behance.net/liliamsolive" target="_blank"><img align="right" alt="Behance" width="32px" src='https://svgshare.com/i/uFk.svg' />
- <a href="mailto:liliamsoliver@gmail.com" target="_blank"><img align="right" alt="LinkedIn" width="32px" src="https://svgshare.com/i/uFz.svg" />
- <a href="https://www.linkedin.com/in/liliamoliveira" target="_blank"><img align="right" alt="LinkedIn" width="32px" src='https://svgshare.com/i/uFY.svg'> </a>
- 
-</h1> 
+<h1>Hi! I'm Liliam. Welcome!</h1> 
 
   
 <div>
@@ -13,18 +7,11 @@
   <p align="left"> - 🎓 Designer</p>
   <p align="left"> - 🚀 Generation Brasil - Turma 60</p>
   <p align="left"> - 📚 Desenvolve 2022 (Grupo Boticário - Alura) </p>
+  <p align="left"> - 💼 Trainee at @EY </p>
   <p align="left"> - 👩🏻 Pronouns: she/her</p>
  </div>
-  
 <br>
   
-<div align="center">
-  <a href="https://github.com/Lihsolive"></a>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lihsolive&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lihsolive&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-<br>
   
 <div style="display: inline-block">
 
